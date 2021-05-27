@@ -7,5 +7,5 @@ function palindrome(str) {
 }
 console.log(palindrome("A man, a plan, a canal. Panama"));
 console.log(palindrome("madam"))
-console.log(palindrome("racecar"))
+console.log(palindrome("Race car"))
 console.log(palindrome("eat"))
